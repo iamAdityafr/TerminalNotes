@@ -56,3 +56,6 @@ Run the application:
 ```
 
 You should now be able to use the Terminal Notes App to create, edit, view, and delete notes directly from your terminal!
+
+## Images
+![Terminal notes](C:\Users\royal\OneDrive\Pictures\Screenshots)
