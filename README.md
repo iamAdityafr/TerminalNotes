@@ -58,5 +58,5 @@ Run the application:
 You should now be able to use the Terminal Notes App to create, edit, view, and delete notes directly from your terminal!
 
 ## Images
-![Terminal notes](C:\Users\royal\OneDrive\Pictures\Screenshots\ig1)
-![Terminal notes](C:\Users\royal\OneDrive\Pictures\Screenshots\ig2)
+![Terminal notes]([C:\Users\royal\OneDrive\Pictures\Screenshots\ig1](https://github.com/iamAdityafr/TerminalNotes/blob/main/ig1.png?raw=true))
+![Terminal notes]([C:\Users\royal\OneDrive\Pictures\Screenshots\ig2](https://github.com/iamAdityafr/TerminalNotes/blob/main/ig2.png?raw=true))
