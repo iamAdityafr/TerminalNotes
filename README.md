@@ -59,6 +59,7 @@ You should now be able to use the Terminal Notes App to create, edit, view, and 
 
 ## Images
 
-![Terminal notes](https://github.com/iamAdityafr/TerminalNotes/blob/main/ig1.png?raw=true)
-![Terminal notes](https://github.com/iamAdityafr/TerminalNotes/blob/main/ig2.png?raw=true)
+![Terminal notes1](https://github.com/iamAdityafr/TerminalNotes/blob/main/ig1.png?raw=true)
+
+![Terminal notes2](https://github.com/iamAdityafr/TerminalNotes/blob/main/ig2.png?raw=true)
 
